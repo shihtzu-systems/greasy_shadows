@@ -22,7 +22,7 @@ end
 group :development do
   gem 'guard'
   gem 'guard-minitest'
-
+  gem 'pry'
   gem 'sqlite3'
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '>= 3.0.5', '< 3.2'
