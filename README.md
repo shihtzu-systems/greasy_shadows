@@ -20,13 +20,13 @@
 11. R U My Killa?
 
 #### Credits
-- “Money” written by Connor Hanwick, Jacob Graham, Jonathan Pierce (band: The Drums)
-- All other songs written and recorded by Joel Marquard.
-- Multi-tracked strings on “Angel Of Death Dount Shop” and “Death Was An Olympic Speedskater”, written and recorded by Joshua Hill (band: The Hill In Mind)
-- Vocals on “Shook Loose” by Haendel Balzora and recorded by Hye Hi in Brooklyn, NY.
-- Additional noises on “Killa Jungle Cruise” made by Gerald Schoenherr.
-- Mastered by Gerald Schoenherr.
-- Album cover and layout by Joel Marquard and Eric Hughes
+- “Money” written by **Connor Hanwick**, **Jacob Graham**, **Jonathan Pierce** (band: The Drums)
+- All other songs written and recorded by **Joel Marquard**.
+- Multi-tracked strings on “Angel Of Death Dount Shop” and “Death Was An Olympic Speedskater”, written and recorded by **Joshua Hill** (band: The Hill In Mind)
+- Vocals on “Shook Loose” by **Haendel Balzora** and recorded by **Hye Hi** in Brooklyn, NY.
+- Additional noises on “Killa Jungle Cruise” made by **Gerald Schoenherr**.
+- Mastered by **Gerald Schoenherr**.
+- Album cover and layout by **Joel Marquard** and **Eric Hughes**
 
 ### I Hope My Grave Is A Gutter
 
@@ -55,10 +55,10 @@ moonerecords.com/spiritualwarfare
 13. I Hope My Grave Is A Gutter
 
 #### Credits
-- Written and recorded by Joel Marquard
-- All Instruments played by Joel Marquard
-- "Diamonds Of Your Youth" features the voice Rodetta (Ellen Werner) and Reuben Garcia on percussion, bass, and back up vocals
-- I Hope My Grave Is A Gutter was mastered by Moone Records
+- Written and recorded by **Joel Marquard**
+- All Instruments played by **Joel Marquard**
+- "Diamonds Of Your Youth" features the voice **Rodetta (Ellen Werner)** and **Reuben Garcia** on percussion, bass, and back up vocals
+- I Hope My Grave Is A Gutter was mastered by **Moone Records**
 
 ### Double Voices
 
@@ -88,12 +88,12 @@ moonerecords.com/spiritualwarfare
 10. Wal-Mart Joan Of Arc
 
 #### Credits
-- Written and recorded by Joel Marquard
-- All Instruments played by Joel Marquard
-- Drums on “Tiger By The Tail” were played and recorded by the great Greg Muller, also featuring back up vocals from the always wonderful Rodetta (Ellen Werner)
-- Gerald Schoenherr did some major mix work for “My Dream Of The End”
-- Kristopher “Satya Sound” Rein played sitar on “Mystery Man”
-- Double Voices was mastered by Moone Records
+- Written and recorded by **Joel Marquard**
+- All Instruments played by **Joel Marquard**
+- Drums on “Tiger By The Tail” were played and recorded by the great **Greg Muller**, also featuring back up vocals from the always wonderful **Rodetta (Ellen Werner)**
+- **Gerald Schoenherr** did some major mix work for “My Dream Of The End”
+- **Kristopher “Satya Sound” Rein** played sitar on “Mystery Man”
+- Double Voices was mastered by **Moone Records**
 
 ### Vol. 1
 
@@ -114,7 +114,7 @@ moonerecords.com/spiritualwarfare
 5. time honored tradition
 
 #### Credits
-- Vocals and added instruments by Joel Marquard.
+- Vocals and added instruments by **Joel Marquard**.
 
 ### Suite 16
 
@@ -140,8 +140,8 @@ moonerecords.com/spiritualwarfare
 10. One Down, Three To Go
 
 #### Credits
-- All songs Written, recorded, and played by Joel Marquard (Spiritual Warfare)
-- Marvella Cubit, Zuri Deva, Stacy Mulhern and Rodetta did vocals on “My Day Off”
-- "Give Me A Reason" (track 4) drums recorded and played by Greg Muller.
-- "You Know That I Do" contains a sample from the African artist Ephrem Tamru.
-- Andrea Marquard and Stacy Mulhern did the backing vocals on “Heat Of The Night”
+- All songs Written, recorded, and played by **Joel Marquard** (Spiritual Warfare)
+- **Marvella Cubit**, **Zuri Deva**, **Stacy Mulhern** and **Rodetta** did vocals on “My Day Off”
+- "Give Me A Reason" (track 4) drums recorded and played by **Greg Muller**.
+- "You Know That I Do" contains a sample from the African artist **Ephrem Tamru**.
+- **Andrea Marquard** and **Stacy Mulhern** did the backing vocals on “Heat Of The Night”
