@@ -1,10 +1,8 @@
 # Spiritual Warfare and the Greasy Shadows
 
-## Albums
+## "ad hoc"
 
-### "ad hoc"
-
-#### Tracks
+### Tracks
 1. Take It Over
 2. Angel Of Death Donut Shop
 3. Volcano Girls Intro
@@ -17,10 +15,10 @@
 10. Killa Jungle Cruise
 11. R U My Killa?
 
-#### Released
+### Released
 - on March 22, 2018
 
-#### Credits
+### Credits
 - “Money” written by **Connor Hanwick**, **Jacob Graham**, **Jonathan Pierce** (band: The Drums)
 - All other songs written and recorded by **Joel Marquard**.
 - Multi-tracked strings on “Angel Of Death Dount Shop” and “Death Was An Olympic Speedskater”, written and recorded by **Joshua Hill** (band: The Hill In Mind)
@@ -29,11 +27,11 @@
 - Mastered by **Gerald Schoenherr**.
 - Album cover and layout by **Joel Marquard** and **Eric Hughes**
 
-### I Hope My Grave Is A Gutter
+## I Hope My Grave Is A Gutter
 
 I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop.
 
-#### Tracks
+### Tracks
 1. Panic And The Beach House
 2. I Came Runnin' When I Heard The News
 3. Modern Man
@@ -48,21 +46,21 @@ I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop
 12. Game Show Theme Murder Ballad
 13. I Hope My Grave Is A Gutter
 
-#### Released
+### Released
 - on November 6, 2015
 - by Moone Records
 
-#### Credits
+### Credits
 - Written and recorded by **Joel Marquard**
 - All Instruments played by **Joel Marquard**
 - "Diamonds Of Your Youth" features the voice **Rodetta (Ellen Werner)** and **Reuben Garcia** on percussion, bass, and back up vocals
 - I Hope My Grave Is A Gutter was mastered by **Moone Records**
 
-### Double Voices
+## Double Voices
 
 Double Voices is American pop songs with Indian percussion laying the foundation for classic golden-era Bollywood sounds and instruments written by Spiritual Warfare.
 
-#### Tracks
+### Tracks
 1. Mystery Man
 2. Send Your Love
 3. Tiger By The Tail
@@ -74,11 +72,11 @@ Double Voices is American pop songs with Indian percussion laying the foundation
 9. I Wanna Know
 10. Wal-Mart Joan Of Arc
 
-#### Released
+### Released
 - on October 23, 2015
 - by Moone Records
 
-#### Credits
+### Credits
 - Written and recorded by **Joel Marquard**
 - All Instruments played by **Joel Marquard**
 - Drums on “Tiger By The Tail” were played and recorded by the great **Greg Muller**, also featuring back up vocals from the always wonderful **Rodetta (Ellen Werner)**
@@ -86,29 +84,29 @@ Double Voices is American pop songs with Indian percussion laying the foundation
 - **Kristopher “Satya Sound” Rein** played sitar on “Mystery Man”
 - Double Voices was mastered by **Moone Records**
 
-### Vol. 1
+## Vol. 1
 
 Samples and reworkings of 50s-70s era Bollywood songs.
 
-#### Tracks
+### Tracks
 1. you were the one for me and everybody else
 2. i have demands
 3. terrible twos
 4. robber's desert
 5. time honored tradition
 
-#### Released
+### Released
 - on October 9, 2015
 - by Moone Records
 
-#### Credits
+### Credits
 - Vocals and added instruments by **Joel Marquard**.
 
-### Suite 16
+## Suite 16
 
 Suite 16 is Damaged Do-Wop, Rhythm and Blues, and Lo-Fi Soul.
 
-#### Tracks
+### Tracks
 1. You Know That I Do
 2. My Day Off
 3. On The Way
@@ -120,11 +118,11 @@ Suite 16 is Damaged Do-Wop, Rhythm and Blues, and Lo-Fi Soul.
 9. Trinity Bell Ringers
 10. One Down, Three To Go
 
-#### Released
+### Released
 - on September 25, 2015
 - by Moone Records
 
-#### Credits
+### Credits
 - All songs Written, recorded, and played by **Joel Marquard** (Spiritual Warfare)
 - **Marvella Cubit**, **Zuri Deva**, **Stacy Mulhern** and **Rodetta** did vocals on “My Day Off”
 - "Give Me A Reason" (track 4) drums recorded and played by **Greg Muller**.
