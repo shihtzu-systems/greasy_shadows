@@ -4,8 +4,6 @@
 
 ### "ad hoc"
 
-- **Released on:** March 22, 2018
-
 #### Tracks
 1. Take It Over
 2. Angel Of Death Donut Shop
@@ -19,6 +17,9 @@
 10. Killa Jungle Cruise
 11. R U My Killa?
 
+#### Released
+- on March 22, 2018
+
 #### Credits
 - “Money” written by **Connor Hanwick**, **Jacob Graham**, **Jonathan Pierce** (band: The Drums)
 - All other songs written and recorded by **Joel Marquard**.
@@ -31,13 +32,6 @@
 ### I Hope My Grave Is A Gutter
 
 I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop.
-
-- **Released on:** November 6, 2015
-- **Released by:** MOONE RECORDS
-- **Release/catalogue number:** MR022
-
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
 
 #### Tracks
 1. Panic And The Beach House
@@ -54,6 +48,10 @@ moonerecords.com/spiritualwarfare
 12. Game Show Theme Murder Ballad
 13. I Hope My Grave Is A Gutter
 
+#### Released
+- on November 6, 2015
+- by Moone Records
+
 #### Credits
 - Written and recorded by **Joel Marquard**
 - All Instruments played by **Joel Marquard**
@@ -63,17 +61,6 @@ moonerecords.com/spiritualwarfare
 ### Double Voices
 
 Double Voices is American pop songs with Indian percussion laying the foundation for classic golden-era Bollywood sounds and instruments written by Spiritual Warfare.
-
-- **Released on:** October 23, 2015
-- **Released by:** MOONE RECORDS
-- **Release/catalogue number:** MR021
-
-"Double Voices" Limited Edition Cassette:
-moonerecords.storenvy.com/products/15872220-double-voices-limited-edition-cassette
-
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
-
 
 #### Tracks
 1. Mystery Man
@@ -87,6 +74,10 @@ moonerecords.com/spiritualwarfare
 9. I Wanna Know
 10. Wal-Mart Joan Of Arc
 
+#### Released
+- on October 23, 2015
+- by Moone Records
+
 #### Credits
 - Written and recorded by **Joel Marquard**
 - All Instruments played by **Joel Marquard**
@@ -99,13 +90,6 @@ moonerecords.com/spiritualwarfare
 
 Samples and reworkings of 50s-70s era Bollywood songs.
 
-- **Released on:** October 9, 2015
-- **Released by:** MOONE RECORDS
-- **Release/catalogue number:** MR020
-
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
-
 #### Tracks
 1. you were the one for me and everybody else
 2. i have demands
@@ -113,19 +97,16 @@ moonerecords.com/spiritualwarfare
 4. robber's desert
 5. time honored tradition
 
+#### Released
+- on October 9, 2015
+- by Moone Records
+
 #### Credits
 - Vocals and added instruments by **Joel Marquard**.
 
 ### Suite 16
 
 Suite 16 is Damaged Do-Wop, Rhythm and Blues, and Lo-Fi Soul.
-
-- **Released on:** September 25, 2015
-- **Released by:** MOONE RECORDS
-- **Release/catalogue number:** MR018
-
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
 
 #### Tracks
 1. You Know That I Do
@@ -138,6 +119,10 @@ moonerecords.com/spiritualwarfare
 8. Tossed and Turnned
 9. Trinity Bell Ringers
 10. One Down, Three To Go
+
+#### Released
+- on September 25, 2015
+- by Moone Records
 
 #### Credits
 - All songs Written, recorded, and played by **Joel Marquard** (Spiritual Warfare)
