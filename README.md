@@ -4,7 +4,7 @@
 
 ### "ad hoc"
 
-**Released on:** March 22, 2018
+- **Released on:** March 22, 2018
 
 #### Tracks
 1. Take It Over
@@ -32,9 +32,9 @@ Album cover and layout by Joel Marquard and Eric Hughes
 
 I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop.
 
-**Released on:** November 6, 2015
-**Released by:** MOONE RECORDS
-**Release/catalogue number:** MR022
+- **Released on:** November 6, 2015
+- **Released by:** MOONE RECORDS
+- **Release/catalogue number:** MR022
 
 SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
 moonerecords.com/spiritualwarfare
@@ -64,9 +64,9 @@ I Hope My Grave Is A Gutter was mastered by Moone Records
 
 Double Voices is American pop songs with Indian percussion laying the foundation for classic golden-era Bollywood sounds and instruments written by Spiritual Warfare.
 
-**Released on:** October 23, 2015
-**Released by:** MOONE RECORDS
-**Release/catalogue number:** MR021
+- **Released on:** October 23, 2015
+- **Released by:** MOONE RECORDS
+- **Release/catalogue number:** MR021
 
 "Double Voices" Limited Edition Cassette:
 moonerecords.storenvy.com/products/15872220-double-voices-limited-edition-cassette
@@ -99,9 +99,9 @@ Double Voices was mastered by Moone Records
 
 Samples and reworkings of 50s-70s era Bollywood songs.
 
-**Released on:** October 9, 2015
-**Released by:** MOONE RECORDS
-**Release/catalogue number:** MR020
+- **Released on:** October 9, 2015
+- **Released by:** MOONE RECORDS
+- **Release/catalogue number:** MR020
 
 SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
 moonerecords.com/spiritualwarfare
@@ -120,9 +120,9 @@ Vocals and added instruments by Joel Marquard.
 
 Suite 16 is Damaged Do-Wop, Rhythm and Blues, and Lo-Fi Soul.
 
-**Released on:** September 25, 2015
-**Released by:** MOONE RECORDS
-**Release/catalogue number:** MR018
+- **Released on:** September 25, 2015
+- **Released by:** MOONE RECORDS
+- **Release/catalogue number:** MR018
 
 SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
 moonerecords.com/spiritualwarfare
