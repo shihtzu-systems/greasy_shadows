@@ -1,10 +1,12 @@
-# Greasy Shadows
+# Spiritual Warfare and the Greasy Shadows
 
 ## Albums
 
 ### "ad hoc"
 
-Tracks
+**Released on:** March 22, 2018
+
+#### Tracks
 1. Take It Over
 2. Angel Of Death Donut Shop
 3. Volcano Girls Intro
@@ -17,9 +19,7 @@ Tracks
 10. Killa Jungle Cruise
 11. R U My Killa?
 
-Released March 22, 2018
-
-**Credits**
+#### Credits
 “Money” written by Connor Hanwick, Jacob Graham, Jonathan Pierce (band: The Drums)
 All other songs written and recorded by Joel Marquard.
 Multi-tracked strings on “Angel Of Death Dount Shop” and “Death Was An Olympic Speedskater”, written and recorded by Joshua Hill (band: The Hill In Mind)
@@ -30,7 +30,16 @@ Album cover and layout by Joel Marquard and Eric Hughes
 
 ### I Hope My Grave Is A Gutter
 
-Tracks
+I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop.
+
+**Released on:** November 6, 2015
+**Released by:** MOONE RECORDS
+**Release/catalogue number:** MR022
+
+SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
+moonerecords.com/spiritualwarfare
+
+#### Tracks
 1. Panic And The Beach House
 2. I Came Runnin' When I Heard The News
 3. Modern Man
@@ -45,19 +54,7 @@ Tracks
 12. Game Show Theme Murder Ballad
 13. I Hope My Grave Is A Gutter
 
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
-
-released by:
-MOONE RECORDS
-release/catalogue number:
-MR022
-
-I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop.
-
-Released November 6, 2015
-
-**Credits**
+#### Credits
 Written and recorded by Joel Marquard
 All Instruments played by Joel Marquard
 "Diamonds Of Your Youth" features the voice Rodetta (Ellen Werner) and Reuben Garcia on percussion, bass, and back up vocals
@@ -65,7 +62,20 @@ I Hope My Grave Is A Gutter was mastered by Moone Records
 
 ### Double Voices
 
-Tracks
+Double Voices is American pop songs with Indian percussion laying the foundation for classic golden-era Bollywood sounds and instruments written by Spiritual Warfare.
+
+**Released on:** October 23, 2015
+**Released by:** MOONE RECORDS
+**Release/catalogue number:** MR021
+
+"Double Voices" Limited Edition Cassette:
+moonerecords.storenvy.com/products/15872220-double-voices-limited-edition-cassette
+
+SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
+moonerecords.com/spiritualwarfare
+
+
+#### Tracks
 1. Mystery Man
 2. Send Your Love
 3. Tiger By The Tail
@@ -77,23 +87,7 @@ Tracks
 9. I Wanna Know
 10. Wal-Mart Joan Of Arc
 
-"Double Voices" Limited Edition Cassette:
-moonerecords.storenvy.com/products/15872220-double-voices-limited-edition-cassette
-
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
-
-released by:
-MOONE RECORDS
-release/catalogue number:
-MR021
-
-Double Voices is American pop songs with Indian percussion laying the foundation for classic golden-era Bollywood sounds and instruments written by Spiritual Warfare.
-credits
-
-Released October 23, 2015
-
-**Credits**
+#### Credits
 Written and recorded by Joel Marquard
 All Instruments played by Joel Marquard
 Drums on “Tiger By The Tail” were played and recorded by the great Greg Muller, also featuring back up vocals from the always wonderful Rodetta (Ellen Werner)
@@ -103,31 +97,37 @@ Double Voices was mastered by Moone Records
 
 ### Vol. 1
 
-Tracks
+Samples and reworkings of 50s-70s era Bollywood songs.
+
+**Released on:** October 9, 2015
+**Released by:** MOONE RECORDS
+**Release/catalogue number:** MR020
+
+SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
+moonerecords.com/spiritualwarfare
+
+#### Tracks
 1. you were the one for me and everybody else
 2. i have demands
 3. terrible twos
 4. robber's desert
 5. time honored tradition
 
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
-
-released by:
-MOONE RECORDS
-release/catalogue number:
-MR020
-
-Samples and reworkings of 50s-70s era Bollywood songs.
-
-Released October 9, 2015
-
-**Credits**
+#### Credits
 Vocals and added instruments by Joel Marquard.
 
 ### Suite 16
 
-Tracks
+Suite 16 is Damaged Do-Wop, Rhythm and Blues, and Lo-Fi Soul.
+
+**Released on:** September 25, 2015
+**Released by:** MOONE RECORDS
+**Release/catalogue number:** MR018
+
+SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
+moonerecords.com/spiritualwarfare
+
+#### Tracks
 1. You Know That I Do
 2. My Day Off
 3. On The Way
@@ -139,19 +139,7 @@ Tracks
 9. Trinity Bell Ringers
 10. One Down, Three To Go
 
-SPIRITUAL WARFARE ALBUM RELEASE PROGRAM:
-moonerecords.com/spiritualwarfare
-
-released by:
-MOONE RECORDS
-release/catalogue number:
-MR018
-
-Suite 16 is Damaged Do-Wop, Rhythm and Blues, and Lo-Fi Soul.
-
-Released September 25, 2015
-
-**Credits**
+#### Credits
 All songs Written, recorded, and played by Joel Marquard (Spiritual Warfare)
 Marvella Cubit, Zuri Deva, Stacy Mulhern and Rodetta did vocals on “My Day Off”
 "Give Me A Reason" (track 4) drums recorded and played by Greg Muller.
