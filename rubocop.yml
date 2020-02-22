@@ -1,0 +1,10 @@
+AllCops:
+  Exclude:
+  - '.git/**/*'
+  - '.cache/**/*'
+  - 'config/**/*'
+  - 'tmp/**/*'
+  - 'vendor/**/*'
+
+Layout/EndOfLine:
+  EnforcedStyle: lf

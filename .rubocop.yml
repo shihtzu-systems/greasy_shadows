@@ -1,0 +1,12 @@
+# Defaults: https://github.com/bbatsov/rubocop/blob/master/config/default.yml
+AllCops:
+  CacheRootDirectory: tmp/.cache
+
+Style/HashEachMethods:
+  Enabled: true
+
+Style/HashTransformKeys:
+  Enabled: true
+
+Style/HashTransformValues:
+  Enabled: true
