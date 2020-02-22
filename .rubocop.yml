@@ -24,6 +24,7 @@ AllCops:
   Exclude:
   - '.git/**/*'
   - '.cache/**/*'
+  - Guardfile
   - 'bin/**/*'
   - 'db/seeds.rb'
   - 'db/schema.rb'

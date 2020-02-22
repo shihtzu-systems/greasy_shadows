@@ -27,6 +27,7 @@ end
 group :development do
   gem 'guard'
   gem 'guard-minitest'
+  gem 'guard-rubocop'
   gem 'listen', '>= 3.0.5', '< 3.2'
   gem 'pry'
   gem 'spring'
