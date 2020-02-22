@@ -11,7 +11,8 @@ password = 'pass12'
 User.create! name: 'Admin',
              email: 'admin@blah.com',
              password: password,
-             password_confirmation: password
+             password_confirmation: password,
+             admin: true
 
 99.times do |n|
   name = Faker::Name.name
@@ -19,5 +20,6 @@ User.create! name: 'Admin',
   User.create! name: name,
                email: email,
                password: password,
-               password_confirmation: password
+               password_confirmation: password,
+               admin: false
 end
