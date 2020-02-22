@@ -1,12 +1,13 @@
+# frozen_string_literal: true
+
 require 'test_helper'
 
 class UsersEditTest < ActionDispatch::IntegrationTest
-
   def setup
-    @user =  users(:john)
+    @user = users(:john)
   end
 
-  test "unsuccessful edit" do
+  test 'unsuccessful edit' do
     log_in_as @user
     get edit_user_path(@user)
     assert_template 'users/edit'
@@ -36,5 +37,4 @@ class UsersEditTest < ActionDispatch::IntegrationTest
     assert_equal name, @user.name
     assert_equal email, @user.email
   end
-
 end

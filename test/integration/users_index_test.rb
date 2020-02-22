@@ -1,12 +1,13 @@
+# frozen_string_literal: true
+
 require 'test_helper'
 
 class UsersIndexTest < ActionDispatch::IntegrationTest
-
   def setup
     @user = users(:john)
   end
 
-  test "index including pagination" do
+  test 'index including pagination' do
     log_in_as(@user)
     get users_path
     assert_template 'users/index'
@@ -15,5 +16,4 @@ class UsersIndexTest < ActionDispatch::IntegrationTest
       assert_select 'a[href=?]', user_path(user), user.name
     end
   end
-
 end
