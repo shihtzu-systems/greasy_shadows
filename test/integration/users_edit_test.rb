@@ -1,12 +1,13 @@
+# frozen_string_literal: true
+
 require 'test_helper'
 
 class UsersEditTest < ActionDispatch::IntegrationTest
-
   def setup
-    @user =  users(:john)
+    @user = users(:john)
   end
 
-  test "unsuccessful edit" do
+  test 'unsuccessful edit' do
     log_in_as @user
     get edit_user_path(@user)
     assert_template 'users/edit'
@@ -18,22 +19,22 @@ class UsersEditTest < ActionDispatch::IntegrationTest
     assert_template 'users/edit'
   end
 
-  test 'successful edit' do
-    log_in_as @user
+  test 'successful edit with friendly forward' do
     get edit_user_path(@user)
-    assert_template 'users/edit'
+    log_in_as @user
+    assert_redirected_to edit_user_url(@user)
+    name = 'ginger'
+    email = 'ginge@shihtzu.io'
     patch user_path(@user), params: { user:
-                                          { name: 'Joe Smith',
-                                            email: 'user@valid.com',
+                                          { name: name,
+                                            email: email,
                                             password: '',
                                             password_confirmation: '' } }
 
-    assert_redirected_to @user
     assert_not flash.empty?
-
+    assert_redirected_to @user
     @user.reload
-    assert_equal @user.name, 'Joe Smith'
-    assert_equal @user.email, 'user@valid.com'
+    assert_equal name, @user.name
+    assert_equal email, @user.email
   end
-
 end
