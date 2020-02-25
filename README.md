@@ -3,17 +3,17 @@
 ## "ad hoc"
 
 ### Tracks
-1. Take It Over
-2. Angel Of Death Donut Shop
-3. Volcano Girls Intro
-4. Volcano Girls
-5. Death Was An Olympic Speedskater
-6. Viewfinder
-7. Showroom
-8. Shook Loose
-9. Money
-10. Killa Jungle Cruise
-11. R U My Killa?
+1. Take It Over | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/01-take-it-over/song-raw.mp3)
+2. Angel Of Death Donut Shop | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/02-angel-of-death-donut-shop/song-raw.mp3)
+3. Volcano Girls Intro | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/03-volcano-girls-intro/song-raw.mp3)
+4. Volcano Girls | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/04-volcano-girls/song-raw.mp3)
+5. Death Was An Olympic Speedskater | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/05-death-was-an-olympic-speedskater/song-raw.mp3)
+6. Viewfinder | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/06-viewfinder/song-raw.mp3)
+7. Showroom | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/07-showroom/song-raw.mp3)
+8. Shook Loose | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/08-shook-loose/song-raw.mp3)
+9. Money | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/09-money/song-raw.mp3)
+10. Killa Jungle Cruise | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/10-killa-jungle-cruise/song-raw.mp3)
+11. R U My Killa? | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/ad-hoc/11-r-u-my-killa/song-raw.mp3)
 
 ### Released
 - on March 22, 2018
@@ -61,16 +61,16 @@ I Hope My Grave Is A Gutter is garage, surf, lo-fi, dream pop, experimental-slop
 Double Voices is American pop songs with Indian percussion laying the foundation for classic golden-era Bollywood sounds and instruments written by Spiritual Warfare.
 
 ### Tracks
-1. Mystery Man
-2. Send Your Love
-3. Tiger By The Tail
-4. Cindy Lou
-5. You're Gonna Pay For It
-6. Suck The Poison From The Dirty Streets
-7. Double Voices
-8. My Dream Of The End
-9. I Wanna Know
-10. Wal-Mart Joan Of Arc
+1. Mystery Man | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/01-mystery-man/song-raw.mp3)
+2. Send Your Love | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/02-send-your-love/song-raw.mp3)
+3. Tiger By The Tail | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/03-tiger-by-the-tail/song-raw.mp3)
+4. Cindy Lou | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/04-cindy-lou/song-raw.mp3)
+5. You're Gonna Pay For It | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/05-youre-gonna-pay-for-it/song-raw.mp3)
+6. Suck The Poison From The Dirty Streets | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/06-suck-the-poison-from-the-dirty-streets/song-raw.mp3)
+7. Double Voices | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/07-double-voices/song-raw.mp3)
+8. My Dream Of The End | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/08-my-dream-of-the-end/song-raw.mp3)
+9. I Wanna Know | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/09-i-wanna-know/song-raw.mp3)
+10. Wal-Mart Joan Of Arc | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/10-wal-mart-joan-of-arc/song-raw.mp3)
 
 ### Released
 - on October 23, 2015
