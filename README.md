@@ -64,7 +64,7 @@ Double Voices is American pop songs with Indian percussion laying the foundation
 1. Mystery Man - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/01-mystery-man/song-raw.mp3) | [pdf](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/01-mystery-man/chart.pdf)
 2. Send Your Love - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/02-send-your-love/song-raw.mp3) | [pdf](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/02-send-your-love/chart.pdf)
 3. Tiger By The Tail - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/03-tiger-by-the-tail/song-raw.mp3)
-4. Cindy Lou | [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/04-cindy-lou/song-raw.mp3)
+4. Cindy Lou - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/04-cindy-lou/song-raw.mp3)
 5. You're Gonna Pay For It - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/05-youre-gonna-pay-for-it/song-raw.mp3)
 6. Suck The Poison From The Dirty Streets - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/06-suck-the-poison-from-the-dirty-streets/song-raw.mp3)
 7. Double Voices - [mp3](https://d4fhypzxzi4zb.cloudfront.net/greasy-shadows/double-voices/07-double-voices/song-raw.mp3)
